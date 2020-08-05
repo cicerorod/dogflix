@@ -1,0 +1,8 @@
+yarn -> para baixar as dependencias
+yarn dev -> iniciar o projeto
+
+// Site para alterar o nome da pagina
+https://fontmeme.com/netflix-font/
+
+
+https://vitrine-imersao-react.vercel.app/
