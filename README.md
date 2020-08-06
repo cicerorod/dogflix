@@ -7,11 +7,7 @@ Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na I
   WebSite: https://dogflix-cic.vercel.app/
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios/blob/master/img/tela.PNG">
  
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-
-https://www.youtube.com/watch?v=GAH7Vp0OeSA
-https://youtu.be/GAH7Vp0OeSA
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
   
 </p>
 
