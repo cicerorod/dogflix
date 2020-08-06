@@ -8,6 +8,10 @@ Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na I
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios/blob/master/img/tela.PNG">
  
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+https://www.youtube.com/watch?v=GAH7Vp0OeSA
+https://youtu.be/GAH7Vp0OeSA
   
 </p>
 
