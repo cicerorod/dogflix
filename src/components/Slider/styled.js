@@ -8,19 +8,18 @@ export const Container = styled.div`
 
   .slick-prev,
   .slick-next {
-    z-index: 50;
+    z-index: 10;
     top: 0;
     bottom: 0;
     margin: auto;
-    width: 60px;
-    height: 60px;
+    width: 30px;
+    height: 30px;
     transform: initial;
 
     &:before {
-      font-size: 60px;
+      font-size: 30px;
     }
   }
-
   .slick-prev {
     left: 0;
     height: 165px;
