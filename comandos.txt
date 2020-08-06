@@ -3,3 +3,15 @@ yarn dev -> iniciar o projeto
 
 // Site para alterar o nome da pagina > https://fontmeme.com/netflix-font/
 //vitrino alura -> https://vitrine-imersao-react.vercel.app/
+
+
+//Url´s
+https://dogflixcic.herokuapp.com/categorias
+https://dogflixcic.herokuapp.com/videos
+https://dogflixcic.herokuapp.com/categorias?_embed=videos
+
+OBS:
+1) backend no heroku:
+  - O comando executado automaticamente pelo heroku é o "start" do package.json
+2) front na vercel
+  - o comando executado automaticamente pela vercel -e "build" do package.json
