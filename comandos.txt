@@ -11,7 +11,7 @@ https://dogflixcic.herokuapp.com/videos
 https://dogflixcic.herokuapp.com/categorias?_embed=videos
 
 OBS:
-1) backend no heroku:
+1) backend no heroku: (https://herokuapp.com/)
   - O comando executado automaticamente pelo heroku é o "start" do package.json
-2) front na vercel
+2) front na vercel (https://vercel.com/)
   - o comando executado automaticamente pela vercel -e "build" do package.json

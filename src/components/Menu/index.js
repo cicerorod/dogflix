@@ -9,7 +9,7 @@ import Button from "../Button";
 function Menu() {
   return (
     <nav className="Menu">
-      <Logo title="DogFlix upper logo" />
+      <Logo title="DogFlix" />
       <Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo Vídeo
       </Button>
