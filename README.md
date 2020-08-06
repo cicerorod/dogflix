@@ -1,5 +1,5 @@
 # Dogflix         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
-Projeto desenvolvido na Imersão React da ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Alura
+Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na Imersão React da **[Alura](https://www.w3schools.com/html/)**
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
 
