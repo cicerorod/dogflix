@@ -27,13 +27,13 @@
       "id": 1,
       "categoriaId": 1,
       "titulo": "Momentos felizes de uma família de cães ",
-      "url": "https://www.youtube.com/watch?v=tRChp0590qY",
+      "url": "https://www.youtube.com/watch?v=7uP2kp9qZaE",
       "descricao": "#Simba #Samuca #Júnior (In memoriam)"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Júnior teste",
+      "titulo": "Júnior - Uivando",
       "url": "https://www.youtube.com/watch?v=ymDE-y7yk20"
     },
     {
@@ -49,81 +49,100 @@
       "id": 4
     },
     {
-      "titulo": "Samuca com ciúmes",
+      "titulo": "Samuca - Ciúmes",
       "url": "https://www.youtube.com/watch?v=tRChp0590qY",
       "categoriaId": 3,
       "id": 5
     },
-
     {
-      "titulo": "Bebezinho",
+      "titulo": "Simba - Bebezinho",
       "url": "https://www.youtube.com/watch?v=-evEQbWcwFM",
       "categoriaId": 2,
       "id": 6
     },
     {
-      "titulo": "Bebezinho na Piscina",
+      "titulo": "Simba - Piscina",
       "url": "https://www.youtube.com/watch?v=b9vk76Zrxa8",
       "categoriaId": 2,
       "id": 7
     },
-
     {
-      "titulo": "Bebezinho Primeira Tosa",
+      "titulo": "Simba - Bebezinho Primeira Tosa",
       "url": "https://www.youtube.com/watch?v=dIvHnjquhfI",
       "categoriaId": 2,
       "id": 8
     },
     {
-      "titulo": "Desfile",
+      "titulo": "Simba - Desfile",
       "url": "https://www.youtube.com/watch?v=wV7qUrL5T18",
       "categoriaId": 2,
       "id": 9
     },
     {
-      "titulo": "Primeiro Brinquedo",
+      "titulo": "Simba - Primeiro Brinquedo",
       "url": "https://www.youtube.com/watch?v=gdRTsYTI4gA",
       "categoriaId": 2,
       "id": 10
     },
     {
-      "titulo": "Medo do Pelúcia",
+      "titulo": "Simba - Medo do Pelúcia",
       "url": "https://www.youtube.com/watch?v=0ju7VxJPEV4",
       "categoriaId": 2,
       "id": 11
     },
-
     {
-      "titulo": "Pelúcia",
+      "titulo": "Simba - Pelúcia",
       "url": "https://www.youtube.com/watch?v=5j9ACMlLjWw",
       "categoriaId": 2,
       "id": 12
     },
-
     {
-      "titulo": "Escovando os dentes",
-      "url": "https://www.youtube.com/watch?v=TVzG_tcl8B4",
+      "titulo": "Simba - Escovando os dentes",
+      "url": "https://www.youtube.com/watch?v=CwHmKCyMcH0",
       "categoriaId": 2,
       "id": 13
     },
     {
-      "titulo": "Quando o papai chegar",
-      "url": "https://www.youtube.com/watch?v=zNfMsDh3u5s",
+      "titulo": "Júnior - Quando o papai chegar",
+      "url": "https://www.youtube.com/watch?v=TVzG_tcl8B4",
       "categoriaId": 1,
       "id": 14
     },
-
     {
-      "titulo": "Brincando com o Samuca",
+      "titulo": "Júnior - Brincando com o Samuca",
       "url": "https://www.youtube.com/watch?v=tgIjJ8mumss",
       "categoriaId": 1,
       "id": 15
     },
     {
-      "titulo": "Samuca na Praia",
+      "titulo": "Samuca - Praia",
       "url": "https://www.youtube.com/watch?v=tLpEvdNGjy4",
       "categoriaId": 3,
       "id": 16
+    },
+    {
+      "titulo": "Júnior - Querendo Carinho",
+      "url": "https://www.youtube.com/watch?v=G0bVxUiCCFU",
+      "categoriaId": 1,
+      "id": 17
+    },
+    {
+      "titulo": "Simba - Cascudo",
+      "url": "https://www.youtube.com/watch?v=AbhBU9pjvoM",
+      "categoriaId": 2,
+      "id": 18
+    },
+    {
+      "titulo": "Samuca - PetShow",
+      "url": "https://www.youtube.com/watch?v=hyZ3FF8zLdI",
+      "categoriaId": 3,
+      "id": 19
+    },
+    {
+      "titulo": "Júnior - Patinha",
+      "url": "https://www.youtube.com/watch?v=vqg1U6R8ofE",
+      "categoriaId": 1,
+      "id": 20
     }
   ]
 }

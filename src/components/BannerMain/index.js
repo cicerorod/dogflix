@@ -13,10 +13,12 @@ function getYouTubeId(youtubeURL) {
   );
 }
 
+// https://i.ytimg.com/vi/7uP2kp9qZaE/maxresdefault.jpg
+
 export default function BannerMain({ videoTitle, videoDescription, url }) {
   const youTubeID = getYouTubeId(url);
-  // const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
-  const bgUrl = "https://img.youtube.com/vi/7uP2kp9qZaE/hqdefault.jpg";
+  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  // const bgUrl = "https://img.youtube.com/vi/7uP2kp9qZaE/hqdefault.jpg";
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
