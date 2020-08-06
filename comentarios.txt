@@ -7,7 +7,9 @@ yarn dev -> iniciar o projeto
 
 //Url´s
 https://dogflixcic.herokuapp.com/categorias
+https://dogflixcic.herokuapp.com/categorias/?q=simba
 https://dogflixcic.herokuapp.com/videos
+https://dogflixcic.herokuapp.com/videos/?q=simba
 https://dogflixcic.herokuapp.com/categorias?_embed=videos
 
 OBS:
