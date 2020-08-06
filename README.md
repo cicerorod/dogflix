@@ -1,69 +1,60 @@
-# Projeto inicialmente criado na imersão Alura
-## Pretendo aumenta-lo com o tempo :)
+# Dogflix         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+Projeto desenvolvido na Imersão React da ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Alura
 
-### Available Scripts
+## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
 
-In the project directory, you can run:
+<p align="center">
+  WebSite: https://dogflix-cic.vercel.app/
+  <img src="https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios/blob/master/img/tela.PNG">
+</p>
 
-### `yarn start`
+## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/dogflix.git`
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd dogflix`;
+3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
+4. Executar o comando `yarn dev`. Ex: `yarn dev`
+5. Acessar o endereço do backend `http://localhost:8080/`
+6. Acessar o endereço do frontend `http://localhost:3000/`
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- :hammer:-->
+## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:    
 
-### `yarn test`
+- **[HTML](https://www.w3schools.com/html/)**
+- **[JavaScript](https://www.w3schools.com/js/)**
+- **[CSS](https://www.w3schools.com/Css/)**
+- **[ES6+](https://www.w3schools.com/Js/js_es6.asp)**
+- **[ReactJS](https://reactjs.org/)**
+- **[React Dom](https://www.npmjs.com/package/react-dom)**
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
+- **[Vercel](https://vercel.com/)**
+- **[Heroku](https://heroku.com/)**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
-### `yarn build`
+1. Faça o _fork_ do projeto (<https://github.com/cicerorod/dogflix/fork>)
+2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
+3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
+4. _Push_ (`git push origin feature/[nome]`)
+5. Crie um novo _Pull Request_
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/dogflix/blob/master/LICENSE) para obter mais informações.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img src="https://avatars.githubusercontent.com/cicerorod" width=115>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![](https://img.icons8.com/fluent/30/000000/github.png)](https://github.com/cicerorod)
+[![](https://img.icons8.com/metro/25/000000/linkedin.png)](https://www.linkedin.com/in/c%C3%ADcero-rodrigues-89623784/)
+[![](https://img.icons8.com/metro/25/000000/facebook.png)](https://www.facebook.com/cicero.rodrigues.90834)
+[![](https://img.icons8.com/material-rounded/29/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
+[![](https://img.icons8.com/metro/26/000000/email.png)](mailto:cicerorod@gmail.com)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<p align="center">
+  <img src="https://img.icons8.com/wired/32/000000/icons8-new-logo.png" >
+  </br>
+  <a href="https://icons8.com/icon/">Icons by Icons8</a>
+</p>
