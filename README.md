@@ -9,6 +9,8 @@ Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na I
  
   [![doglix](https://www.youtube.com/embed/GAH7Vp0OeSA?autoplay=1&mute=0)
   
+  [![doglix](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/embed/GAH7Vp0OeSA?autoplay=1&mute=0)
+  
 </p>
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
