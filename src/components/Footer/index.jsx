@@ -34,8 +34,7 @@ function Footer() {
           <img src={email} alt="E-mail" className="imgContact" />
         </a>
       </div>
-      <text>&nbsp;&nbsp;&nbsp;&nbsp;Cícero Rodrigues</text>
-
+      &nbsp;&nbsp;&nbsp;&nbsp;Cícero Rodrigues
       <span>
         Criado durante a &nbsp;&nbsp;
         <a href="https://www.alura.com.br/"> Imersão React da </a>
