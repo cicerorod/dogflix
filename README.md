@@ -4,13 +4,16 @@ Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na I
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
 
 <p align="center">
-  WebSite: https://dogflix-cic.vercel.app/
-
+ WebSite: https://dogflix-cic.vercel.app/
+ ![GIF](https://github.com/cicerorod/dogflix/blob/master/gif/DogFlix_site.gif)
+ 
 <!-- [![dogflix](https://github.com/cicerorod/dogflix/blob/master/gif/DogFlix_site.gif)](https://www.youtube.com/embed/GAH7Vp0OeSA?autoplay=1&mute=1)
   -->
+  <img src="https://github.com/cicerorod/dogflix/blob/master/gif/DogFlix_site.gif" alt="animated" />
+  
+  
 </p>
 
-  ![GIF](https://github.com/cicerorod/dogflix/blob/master/gif/DogFlix_site.gif)
   
 
 
@@ -31,6 +34,7 @@ Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na I
 - **[CSS](https://www.w3schools.com/Css/)**
 - **[ES6+](https://www.w3schools.com/Js/js_es6.asp)**
 - **[ReactJS](https://reactjs.org/)**
+- **[Json-Server](https://reactjs.org/)**
 - **[React Dom](https://www.npmjs.com/package/react-dom)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
 - **[Vercel](https://vercel.com/)**
