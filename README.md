@@ -5,11 +5,11 @@ Projeto de uma SPA(Single Page Application) utilizando ReactJS desenvolvido na I
 
 <p align="center">
  WebSite: https://dogflix-cic.vercel.app/
- <img src="https://github.com/cicerorod/dogflix/blob/master/gif/DogFlix_site.gif" alt="animated" />
-  
-  
-</p>
+ </p>
 
+<p align="center">
+ <img src="https://github.com/cicerorod/dogflix/blob/master/gif/DogFlix_site.gif" alt="animated" />
+</p>
   
 
 
